@@ -1,0 +1,4 @@
+User-agent: *
+Disallow:
+
+Sitemap: https://rheinz96.github.io/sitemap.xml
