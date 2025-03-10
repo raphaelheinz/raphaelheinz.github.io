@@ -29,8 +29,8 @@ latest_posts:
 
 Hi, I'm Raphael. Since I completed my **Master’s** in **Computer Science**, I have gained several years of professional experience in **software engineering, machine learning, and computer vision**. I specialize in designing and implementing high-performance applications across platforms. My expertise spans **full-stack development** including both **backend** and **frontend technologies**. Additionally, I research **machine learning algorithms**, focusing on advanced image processing techniques, feature extraction methods, and explainable AI.
 
-
 #### 💻 Experience
+
 - **Backend implementation** and **API development**, primarily using Java
 - Researching and implementing **computer vision and ML algorithms**
 - Evaluating classical and deep learning models for **image classification, object detection, and clustering**
@@ -39,9 +39,7 @@ Hi, I'm Raphael. Since I completed my **Master’s** in **Computer Science**, I 
 - Implementing **frontend solutions** as part of full-stack projects
 
 #### 🌍 Outside of Work
+
 Beyond work, I’m passionate about **solving Data Structures & Algorithms (DSA) problems** and continuously improving my **Python skills**. I also enjoy **hiking in nature, speedcubing and cooking**, which help me relax and stay sharp.
 
 Let’s connect! 🚀
-
-
-
